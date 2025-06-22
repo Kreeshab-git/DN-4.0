@@ -1,2 +1,2 @@
 # DN-4.0
-Depp skilling Hands-On Submission repository
+Deep skilling Hands-On Submission repository
